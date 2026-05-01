@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Home works 🎉</h1>
+  return <h1>TEST PAGE</h1>
 }
